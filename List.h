@@ -1,4 +1,4 @@
-//Header file for the Linked List with Basic funtions
+//Header file for the Post Expression with Basic funtions
 
 #include<iostream>
 #include"Node.h"
