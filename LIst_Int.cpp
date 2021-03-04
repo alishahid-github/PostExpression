@@ -1,4 +1,4 @@
-//.cpp file to implement the Liked List class
+//.cpp file to implement the Liked List class for postfix expresion converter
 
 #include<iostream>
 #include"LIst_Int.h"
@@ -27,7 +27,6 @@ void list::print() {
 	}
 
 }
-
 
 int list::search(int d) {
 
@@ -73,6 +72,3 @@ int list::delete_listH()
 	else
 		return data;
 }
-
-
-
