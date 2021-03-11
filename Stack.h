@@ -1,3 +1,5 @@
+/// Stack Header File
+
 #include<iostream>
 #include"List.h"
 #ifndef STACK
