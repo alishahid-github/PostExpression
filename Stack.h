@@ -13,8 +13,6 @@ public:
 	void push(char d);
 	char pop();
 	void print();
-	char get_Latest();
+	char get_Latest();		//return the top element from stack with out poping it
 };
-
-
 #endif
