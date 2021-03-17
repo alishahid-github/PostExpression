@@ -1,3 +1,4 @@
+//Stack header file for integers
 #include<iostream>
 #include"LIst_Int.h"
 #ifndef STACKK
