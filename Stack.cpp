@@ -1,3 +1,5 @@
+//Stack Implementation File
+
 #include "Stack.h"
 #include "Node.h"
 
