@@ -8,8 +8,8 @@ using namespace std;
 class list {
 public:
 	list();
-	void insertH(int d);		// d=data
-	int delete_listH();
+	void insertH(int d);		// d=data, insert data at the head
+	int delete_listH();		//delete the head of the list
 	void print();
 	int search(int d);
 	void set_head(node* h);
@@ -18,7 +18,5 @@ public:
 
 private:
 	node* head;
-
 };
-
 #endif
